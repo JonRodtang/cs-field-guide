@@ -8,10 +8,10 @@ This repository aims to be the source for all data associated with the CSFG, and
 
 ## Project Philosophy
 
-The CSFG aims to be an document used for teaching Computer Science all over the world in many different languages.
+The CSFG aims to be a document used for teaching Computer Science all over the world in many different languages.
 After using an internal system for creating the guide (from 2012 to 2015), we have moved to a custom open source system.
 All areas of the project, from chapter text to website design, are now available for all.
-We want this project to be as accessible as possible to our many user groups, which includes students, teachers and educators, and developers.
+We want this project to be as accessible as possible to our many user groups. Which includes students, teachers, educators and developers.
 
 ## Requires
 
